@@ -1,5 +1,6 @@
 # Careerhack2022
 ### *This project won 2nd in the Careerhack 2022 competition organized by TSMC and Microsoft.*
+![](https://i.imgur.com/Y4bRJBZ.jpg)
 ### Competition purpose
 The goal of the competition is to design a waste recycling platform to increase the waste reuse rate and reduce the CO2 produced from TSMC.  
 
